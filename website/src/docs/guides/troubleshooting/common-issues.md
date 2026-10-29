@@ -1,3 +1,4 @@
+ERROR: [BiliBili] 1PN411X7p4: Unable to extract initial state; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
 ---
 title: Common issues
 titleTemplate: Troubleshooting - Guides
